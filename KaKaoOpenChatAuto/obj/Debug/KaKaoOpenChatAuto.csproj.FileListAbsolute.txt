@@ -1,0 +1,9 @@
+c:\users\konac\onedrive\문서\visual studio 2017\Projects\KaKaoOpenChatAuto\KaKaoOpenChatAuto\obj\Debug\KaKaoOpenChatAuto.Form1.resources
+c:\users\konac\onedrive\문서\visual studio 2017\Projects\KaKaoOpenChatAuto\KaKaoOpenChatAuto\obj\Debug\KaKaoOpenChatAuto.Properties.Resources.resources
+c:\users\konac\onedrive\문서\visual studio 2017\Projects\KaKaoOpenChatAuto\KaKaoOpenChatAuto\obj\Debug\KaKaoOpenChatAuto.csproj.GenerateResource.Cache
+c:\users\konac\onedrive\문서\visual studio 2017\Projects\KaKaoOpenChatAuto\KaKaoOpenChatAuto\bin\Debug\KaKaoOpenChatAuto.exe.config
+c:\users\konac\onedrive\문서\visual studio 2017\Projects\KaKaoOpenChatAuto\KaKaoOpenChatAuto\bin\Debug\KaKaoOpenChatAuto.exe
+c:\users\konac\onedrive\문서\visual studio 2017\Projects\KaKaoOpenChatAuto\KaKaoOpenChatAuto\bin\Debug\KaKaoOpenChatAuto.pdb
+c:\users\konac\onedrive\문서\visual studio 2017\Projects\KaKaoOpenChatAuto\KaKaoOpenChatAuto\obj\Debug\KaKaoOpenChatAuto.exe
+c:\users\konac\onedrive\문서\visual studio 2017\Projects\KaKaoOpenChatAuto\KaKaoOpenChatAuto\obj\Debug\KaKaoOpenChatAuto.pdb
+C:\Users\konac\OneDrive\문서\Visual Studio 2017\Projects\KaKaoOpenChatAuto\KaKaoOpenChatAuto\obj\Debug\KaKaoOpenChatAuto.csprojResolveAssemblyReference.cache

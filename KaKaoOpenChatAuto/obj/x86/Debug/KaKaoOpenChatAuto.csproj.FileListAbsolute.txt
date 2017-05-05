@@ -1,0 +1,10 @@
+c:\Users\konac\OneDrive\문서\Visual Studio 2017\Projects\KaKaoOpenChatAuto\KaKaoOpenChatAuto\bin\x86\Debug\KaKaoOpenChatAuto.exe.config
+c:\Users\konac\OneDrive\문서\Visual Studio 2017\Projects\KaKaoOpenChatAuto\KaKaoOpenChatAuto\bin\x86\Debug\KaKaoOpenChatAuto.exe
+c:\Users\konac\OneDrive\문서\Visual Studio 2017\Projects\KaKaoOpenChatAuto\KaKaoOpenChatAuto\bin\x86\Debug\KaKaoOpenChatAuto.pdb
+c:\Users\konac\OneDrive\문서\Visual Studio 2017\Projects\KaKaoOpenChatAuto\KaKaoOpenChatAuto\bin\x86\Debug\Newtonsoft.Json.dll
+c:\Users\konac\OneDrive\문서\Visual Studio 2017\Projects\KaKaoOpenChatAuto\KaKaoOpenChatAuto\bin\x86\Debug\Newtonsoft.Json.xml
+c:\Users\konac\OneDrive\문서\Visual Studio 2017\Projects\KaKaoOpenChatAuto\KaKaoOpenChatAuto\obj\x86\Debug\KaKaoOpenChatAuto.Form1.resources
+c:\Users\konac\OneDrive\문서\Visual Studio 2017\Projects\KaKaoOpenChatAuto\KaKaoOpenChatAuto\obj\x86\Debug\KaKaoOpenChatAuto.Properties.Resources.resources
+c:\Users\konac\OneDrive\문서\Visual Studio 2017\Projects\KaKaoOpenChatAuto\KaKaoOpenChatAuto\obj\x86\Debug\KaKaoOpenChatAuto.csproj.GenerateResource.Cache
+c:\Users\konac\OneDrive\문서\Visual Studio 2017\Projects\KaKaoOpenChatAuto\KaKaoOpenChatAuto\obj\x86\Debug\KaKaoOpenChatAuto.exe
+c:\Users\konac\OneDrive\문서\Visual Studio 2017\Projects\KaKaoOpenChatAuto\KaKaoOpenChatAuto\obj\x86\Debug\KaKaoOpenChatAuto.pdb
